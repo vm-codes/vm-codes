@@ -1,16 +1,16 @@
-## Hi there 👋
+## Oi! Eu sou a Vívian 👋
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** 
+
+
+## ✨ Sobre mim
+Sou estudante e estou construindo meus primeiros projetos na área de tecnologia. 
+Entre códigos que funcionam de primeira e aqueles que definitivamente não funcionam, estou aprendendo **Java, POO, SQL, Banco de Dados e desenvolvimento web**.
+Ainda estou no começo, mas cada erro, exercício e projeto faz parte da minha evolução. 💗
+
+
+
 
 <!--
 **vm-codes/vm-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
